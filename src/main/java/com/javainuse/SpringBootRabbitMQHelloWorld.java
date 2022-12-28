@@ -23,6 +23,7 @@ public class SpringBootRabbitMQHelloWorld {
 
 			SpringApplication.run(
 					new Object[] { SpringBootRabbitMQHelloWorld.class }, args);
+					System.out.println("rebase from master to child");
 		}
 
 	}
