@@ -1,0 +1,6 @@
+com\javainuse\SpringBootRabbitMQHelloWorld.class
+com\javainuse\rabbitmq\demo\publisher\OrderPublisher.class
+com\javainuse\rabbitmq\demo\dto\Order.class
+com\javainuse\rabbitmq\demo\dto\OrderStatus.class
+com\javainuse\rabbitmq\demo\config\RabbitMQConfig.class
+com\javainuse\rabbitmq\demo\consumer\User.class
