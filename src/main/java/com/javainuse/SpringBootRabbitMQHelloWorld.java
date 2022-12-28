@@ -21,6 +21,9 @@ public class SpringBootRabbitMQHelloWorld {
 	//	spring-boot-amqp-messaging
 		public static void main(String[] args) {
 
+System.out.println("child  from from master"); 
+
+
 			SpringApplication.run(
 					new Object[] { SpringBootRabbitMQHelloWorld.class }, args);
 		}
